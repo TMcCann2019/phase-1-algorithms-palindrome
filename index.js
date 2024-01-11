@@ -10,6 +10,7 @@ function isPalindrome(word) {
   takes in a word parameter
   returns a word that is split into separate strings/characters
   then is reversed and then joined back together
+  if the same returns true, if not returns false
 */
 
 /*
